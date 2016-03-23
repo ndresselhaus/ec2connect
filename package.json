@@ -1,0 +1,15 @@
+{
+  "name": "ssh2ec2",
+  "version": "1.0.0",
+  "description": "SSH to EC2 instances based on custom tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.2.46",
+    "commander": "^2.9.0"
+  }
+}
